@@ -1,3 +1,3 @@
 # WOLVER, a Wordle solver
 
-Run the Wordle_solver.ipynb file in the google colab. 
+Run the Wolver.ipynb file in the google colab. 
