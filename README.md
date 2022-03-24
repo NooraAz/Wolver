@@ -2,4 +2,4 @@
 
 Run the Wolver.ipynb file in the google colab. 
 
-Our library has almost 2700 five-lettered words at the moment.
+Our library has almost 3100 five-lettered words at the moment.
